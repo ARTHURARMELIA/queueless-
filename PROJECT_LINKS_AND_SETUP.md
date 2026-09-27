@@ -4,6 +4,7 @@
 
 - GitHub repository: https://github.com/ARTHURARMELIA/queueless-
 - Production website: https://queueless-lyart-delta.vercel.app
+- Online visitor and Vercel recovery instructions: [ONLINE_JOIN_AND_VERCEL_RECOVERY.md](ONLINE_JOIN_AND_VERCEL_RECOVERY.md)
 - Vercel project dashboard: https://vercel.com/arthurarmelias-projects/queueless
 - Local development app: http://localhost:3000 (available while the dev server is running)
 
