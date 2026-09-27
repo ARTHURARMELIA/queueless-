@@ -3,14 +3,16 @@
 ## Project links
 
 - GitHub repository: https://github.com/ARTHURARMELIA/queueless-
+- Production website: https://queueless-lyart-delta.vercel.app
+- Vercel project dashboard: https://vercel.com/arthurarmelias-projects/queueless
 - Local development app: http://localhost:3000 (available while the dev server is running)
-- Production website: not deployed yet
 
-The localhost address works on the computer running the dev server. It is not a public website URL.
+The production URL is public. The localhost address works only on the computer running the dev server.
+The Vercel project is not connected to GitHub for automatic deployments yet, so pushing to `main` will not update the live site automatically.
 
 ## App pages
 
-Start the dev server, then open any of these addresses:
+Start the dev server, then open any of these local addresses. For production, replace `http://localhost:3000` with `https://queueless-lyart-delta.vercel.app`:
 
 - Home: http://localhost:3000/
 - How it works: http://localhost:3000/how-it-works
